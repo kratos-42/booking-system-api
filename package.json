@@ -1,5 +1,5 @@
 {
-  "name": "online-booking-system-api",
+  "name": "system-api",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kratos-42/online-booking-system-api.git"
+    "url": "git+https://github.com/kratos-42/system-api.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kratos-42/online-booking-system-api/issues"
+    "url": "https://github.com/kratos-42/system-api/issues"
   },
-  "homepage": "https://github.com/kratos-42/online-booking-system-api#readme",
+  "homepage": "https://github.com/kratos-42/system-api#readme",
   "dependencies": {
     "@koa/router": "^8.0.8",
     "koa": "^2.11.0",
